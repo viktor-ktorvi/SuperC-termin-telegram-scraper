@@ -1,5 +1,10 @@
 # Aachen SuperC residence permit appointment time analysis
 
+<p align="center">
+  <img src="day_of_week_and_hour_of_day_2025.png" width="650" title="Day-of-week and hour-of-day analysis">
+</p>
+
+
 This repo is a fork of a telegram scrapper repo. It contains a script to analyze when appointments are most commonly given out.
 
 To run the script you'll first have to read the scraper part of the README. Once the dependencies have been installed and the channel scrapped,
@@ -12,7 +17,9 @@ python analysis.py
 to plot the analysis.
 
 
-
+<p align="center">
+  <img src="most_common_hours_by_minute_2025.png" width="850" title="Most common hours of the day analyzed by minute">
+</p>
 
 
 # Telegram Channel Scraper 📱
