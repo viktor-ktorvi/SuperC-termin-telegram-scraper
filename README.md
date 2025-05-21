@@ -1,3 +1,20 @@
+# Aachen SuperC residence permit appointment time analysis
+
+This repo is a fork of a telegram scrapper repo. It contains a script to analyze when appointments are most commonly given out.
+
+To run the script you'll first have to read the scraper part of the README. Once the dependencies have been installed and the channel scrapped,
+run:
+
+```shell
+python analysis.py
+```
+
+to plot the analysis.
+
+
+
+
+
 # Telegram Channel Scraper 📱
 
 A powerful Python script that allows you to scrape messages and media from Telegram channels using the Telethon library. Features include real-time continuous scraping, media downloading, and data export capabilities.
@@ -31,6 +48,8 @@ Before running the script, you'll need:
 - API credentials from Telegram
 
 ### Required Python packages
+
+NOTE: create a virtual environment first.
 
 ```
 pip install -r requirements.txt
