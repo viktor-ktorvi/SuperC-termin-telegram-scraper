@@ -5,7 +5,7 @@
 </p>
 
 
-This repo is a fork of a telegram scrapper repo. It contains a script to analyze when appointments are most commonly given out.
+This repo is a fork of a telegram scrapper repo. It contains a script to analyze when appointments at the Super C in Aachen are most commonly given out according to [this bot](https://github.com/noworneverev/aachen-termin-bot) from [this telegram channel](https://t.me/s/aachen_termin).
 
 To run the script you'll first have to read the scraper part of the README. Once the dependencies have been installed and the channel scrapped,
 run:
